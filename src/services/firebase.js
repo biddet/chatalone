@@ -3,14 +3,13 @@ import "firebase/auth";
 import "firebase/database";
 import "firebase/firestore";
 const firebaseConfig = {
-  apiKey: "AIzaSyA-viVOYmo-jwZzoAgGKtUyj7XT1vvjHmc",
-  authDomain: "yunol-321d8.firebaseapp.com",
-  databaseURL: "https://yunol-321d8-default-rtdb.firebaseio.com",
-  projectId: "yunol-321d8",
-  storageBucket: "yunol-321d8.appspot.com",
-  messagingSenderId: "871582088946",
-  appId: "1:871582088946:web:7dcd6ab39c88737adeda6b",
-  measurementId: "G-J18MZDTH6Z"
+  apiKey: "AIzaSyBCIuPH7piYaCU_uXnS9G40v9xfZvK5FPI",
+  authDomain: "chatalone-01.firebaseapp.com",
+  projectId: "chatalone-01",
+  storageBucket: "chatalone-01.appspot.com",
+  messagingSenderId: "703286109506",
+  appId: "1:703286109506:web:1c346be652d80d699e14db",
+  measurementId: "G-TPWQGG6GRF"
 };
 
 firebase.initializeApp(firebaseConfig);
