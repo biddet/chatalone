@@ -3,7 +3,7 @@ import "firebase/auth";
 import "firebase/database";
 import "firebase/firestore";
 const firebaseConfig = {
- apiKey: "AIzaSyA-viVOYmo-jwZzoAgGKtUyj7XT1vvjHmc",
+  apiKey: "AIzaSyA-viVOYmo-jwZzoAgGKtUyj7XT1vvjHmc",
   authDomain: "yunol-321d8.firebaseapp.com",
   databaseURL: "https://yunol-321d8-default-rtdb.firebaseio.com",
   projectId: "yunol-321d8",
